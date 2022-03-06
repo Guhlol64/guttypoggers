@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+     <meta charset="utf-8">
+    <title>tayprft</title>
+<audio autoplay="autoplay" controls="controls">
+  <source src="cw.ogg" type="audio/ogg">
+  <source src="cw.mp3" type="audio/mpeg">
+</audio>
+</head>
+<style type="text/css">
+    h1 {
+        text-align: center;
+        color:balck;
+        font: 30px Arial, sans-serif;
+    }
+    .center {
+        display: block;
+        margin-left: auto;
+        margin-right: auto;
+        width: 50%;
+    }
+    body {background-color: white;}
+    body {
+ background-image: url("hrt.gif");
+ background-color: #cccccc;
+}
+</style>
+<body>
+<h1>TAY LINDA PERFEITA</h1>
+<p>html de betagem</p>
+<img src="tay.jpeg" alt="taylind" width="400" height="550">
+<a href="https://www.instagram.com/https.tata_/">Insta</a>
+<img src="p&j.jpeg" alt="dogos" width="370" height="550">
+<a href="https://www.instagram.com/picles_and_jorge//">Insta</a>
+<img src="tay2.jpeg" alt="taylind" width="370" height="550">
+<a href="tiktok.com/@https.tata__//">TikTok</a>
+</body>
+</html>
